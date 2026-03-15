@@ -24,7 +24,7 @@ For educational and authorized use only.
 
 ## 🚀 Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/cybersec-toolkit.git
+git clone https://github.com/mamadpixels-debug/cybersec-toolkit.git
 cd cybersec-toolkit
 python3 netscout/netscout.py
 python3 security-toolkit/security_toolkit.py
