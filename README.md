@@ -51,5 +51,5 @@ The author is not responsible for any misuse.
 
 ## 👤 Author
 
-Made by [mamadpixels](https://github.com/mamadpixels_debug)# cybersec-toolkit
+Made by [mamadpixels_debug](https://github.com/mamadpixels_debug)# cybersec-toolkit
 A collection of cybersecurity tools for network scanning, log analysis, and password security 
