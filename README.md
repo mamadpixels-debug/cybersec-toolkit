@@ -14,6 +14,19 @@ For educational and authorized use only.
 - CVE vulnerability mapping (30+ known CVEs)
 - Export to JSON / CSV
 - Subnet scanning (CIDR)
+### 🔍 DNSScout — DNS Enumeration
+- Full DNS record enumeration (A, MX, NS, TXT, SOA, CNAME)
+- Subdomain brute force (500 built-in wordlist)
+- Zone transfer attempt (AXFR)
+- SPF / DMARC / DKIM email security check
+- Reverse DNS lookup & range scan
+- Multi-server comparison (Google, Cloudflare, OpenDNS)
+- Export to JSON / CSV
+```
+
+بعد **`Commit changes`** ←  بنویس:
+```
+Add DNSScout v1.0
 
 ### 🔐 Security Toolkit
 - **Log Analyzer** — Apache / Nginx / SSH brute-force detection
