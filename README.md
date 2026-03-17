@@ -22,10 +22,8 @@ For educational and authorized use only.
 - Reverse DNS lookup & range scan
 - Multi-server comparison (Google, Cloudflare, OpenDNS)
 - Export to JSON / CSV
-```
-
-بعد **`Commit changes`** ←  بنویس:
-```
+  
+---
 Add DNSScout v1.0
 
 ### 🔐 Security Toolkit
